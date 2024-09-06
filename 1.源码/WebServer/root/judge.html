@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>测试WebServer基本功能</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background: url('background.png') no-repeat center center fixed;
+            background-size: cover;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 90vh;
+        }
+
+        .container {
+            width: 400px; /* Set a width for the container */
+            margin: 40px; /* Set left and right margins to "auto" */
+            padding: 50px;
+            background-color: rgba(255, 255, 255, 0.8);
+            border-radius: 40px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h2 {
+            text-align: center;
+            color: #333;
+        }
+
+        form {
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        button {
+            background-color: #4caf50;
+            color: #fff;
+            border: none;
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+
+        button:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h2>测试登录注册安全校验</h2>
+
+        <form action="0" method="post">
+            <button type="submit">新用户</button>
+        </form>
+
+        <form action="1" method="post">
+            <button type="submit">已有账号</button>
+        </form>
+    </body>
+</html>

@@ -1,0 +1,400 @@
+第 1 次测试:
+    Speed=976332 pages/min, 1822464 bytes/sec.
+    Requests: 81361 susceed, 0 failed.
+
+第 2 次测试:
+    Speed=1107972 pages/min, 2068236 bytes/sec.
+    Requests: 92331 susceed, 0 failed.
+
+第 3 次测试:
+    Speed=1061040 pages/min, 1980630 bytes/sec.
+    Requests: 88420 susceed, 0 failed.
+
+第 4 次测试:
+    Speed=1062060 pages/min, 1982534 bytes/sec.
+    Requests: 88505 susceed, 0 failed.
+
+第 5 次测试:
+    Speed=1073304 pages/min, 2003545 bytes/sec.
+    Requests: 89442 susceed, 0 failed.
+
+第 6 次测试:
+    Speed=1064904 pages/min, 1987798 bytes/sec.
+    Requests: 88742 susceed, 0 failed.
+
+第 7 次测试:
+    Speed=1059444 pages/min, 1977606 bytes/sec.
+    Requests: 88287 susceed, 0 failed.
+
+第 8 次测试:
+    Speed=1049244 pages/min, 1958588 bytes/sec.
+    Requests: 87437 susceed, 0 failed.
+
+第 9 次测试:
+    Speed=1064292 pages/min, 1986723 bytes/sec.
+    Requests: 88691 susceed, 0 failed.
+
+第 10 次测试:
+    Speed=1053000 pages/min, 1965600 bytes/sec.
+    Requests: 87750 susceed, 0 failed.
+
+第 11 次测试:
+    Speed=1071936 pages/min, 2000969 bytes/sec.
+    Requests: 89328 susceed, 0 failed.
+
+第 12 次测试:
+    Speed=1062024 pages/min, 1982422 bytes/sec.
+    Requests: 88502 susceed, 0 failed.
+
+第 13 次测试:
+    Speed=1060908 pages/min, 1980406 bytes/sec.
+    Requests: 88409 susceed, 0 failed.
+
+第 14 次测试:
+    Speed=1066596 pages/min, 1990956 bytes/sec.
+    Requests: 88883 susceed, 0 failed.
+
+第 15 次测试:
+    Speed=1070424 pages/min, 1998147 bytes/sec.
+    Requests: 89202 susceed, 0 failed.
+
+第 16 次测试:
+    Speed=1061532 pages/min, 1981526 bytes/sec.
+    Requests: 88461 susceed, 0 failed.
+
+第 17 次测试:
+    Speed=1066092 pages/min, 1990060 bytes/sec.
+    Requests: 88841 susceed, 0 failed.
+
+第 18 次测试:
+    Speed=1072020 pages/min, 2001081 bytes/sec.
+    Requests: 89334 susceed, 1 failed.
+
+第 19 次测试:
+    Speed=1068636 pages/min, 1994809 bytes/sec.
+    Requests: 89053 susceed, 0 failed.
+
+第 20 次测试:
+    Speed=1061616 pages/min, 1981660 bytes/sec.
+    Requests: 88468 susceed, 0 failed.
+
+第 21 次测试:
+    Speed=1065576 pages/min, 1989030 bytes/sec.
+    Requests: 88798 susceed, 0 failed.
+
+第 22 次测试:
+    Speed=1055628 pages/min, 1970505 bytes/sec.
+    Requests: 87969 susceed, 0 failed.
+
+第 23 次测试:
+    Speed=1050936 pages/min, 1961724 bytes/sec.
+    Requests: 87577 susceed, 1 failed.
+
+第 24 次测试:
+    Speed=1062516 pages/min, 1983385 bytes/sec.
+    Requests: 88543 susceed, 0 failed.
+
+第 25 次测试:
+    Speed=1058280 pages/min, 1975500 bytes/sec.
+    Requests: 88190 susceed, 0 failed.
+
+第 26 次测试:
+    Speed=1066860 pages/min, 1991449 bytes/sec.
+    Requests: 88905 susceed, 0 failed.
+
+第 27 次测试:
+    Speed=1062564 pages/min, 1983452 bytes/sec.
+    Requests: 88547 susceed, 0 failed.
+
+第 28 次测试:
+    Speed=1061676 pages/min, 1981817 bytes/sec.
+    Requests: 88473 susceed, 0 failed.
+
+第 29 次测试:
+    Speed=1054068 pages/min, 1967616 bytes/sec.
+    Requests: 87839 susceed, 0 failed.
+
+第 30 次测试:
+    Speed=1056336 pages/min, 1971827 bytes/sec.
+    Requests: 88028 susceed, 0 failed.
+
+第 31 次测试:
+    Speed=1062024 pages/min, 1982467 bytes/sec.
+    Requests: 88502 susceed, 0 failed.
+
+第 32 次测试:
+    Speed=1055772 pages/min, 1970796 bytes/sec.
+    Requests: 87981 susceed, 0 failed.
+
+第 33 次测试:
+    Speed=1062228 pages/min, 1982825 bytes/sec.
+    Requests: 88519 susceed, 0 failed.
+
+第 34 次测试:
+    Speed=1060560 pages/min, 1979667 bytes/sec.
+    Requests: 88380 susceed, 0 failed.
+
+第 35 次测试:
+    Speed=1055400 pages/min, 1970102 bytes/sec.
+    Requests: 87950 susceed, 0 failed.
+
+第 36 次测试:
+    Speed=1051008 pages/min, 1961904 bytes/sec.
+    Requests: 87584 susceed, 0 failed.
+
+第 37 次测试:
+    Speed=1060632 pages/min, 1979846 bytes/sec.
+    Requests: 88386 susceed, 0 failed.
+
+第 38 次测试:
+    Speed=1059864 pages/min, 1978435 bytes/sec.
+    Requests: 88322 susceed, 0 failed.
+
+第 39 次测试:
+    Speed=1062540 pages/min, 1983408 bytes/sec.
+    Requests: 88545 susceed, 0 failed.
+
+第 40 次测试:
+    Speed=1061016 pages/min, 1980518 bytes/sec.
+    Requests: 88418 susceed, 0 failed.
+
+第 41 次测试:
+    Speed=1054812 pages/min, 1969004 bytes/sec.
+    Requests: 87901 susceed, 0 failed.
+
+第 42 次测试:
+    Speed=1061064 pages/min, 1980630 bytes/sec.
+    Requests: 88422 susceed, 0 failed.
+
+第 43 次测试:
+    Speed=1069512 pages/min, 1996422 bytes/sec.
+    Requests: 89126 susceed, 0 failed.
+
+第 44 次测试:
+    Speed=1061784 pages/min, 1981996 bytes/sec.
+    Requests: 88482 susceed, 0 failed.
+
+第 45 次测试:
+    Speed=1050384 pages/min, 1960761 bytes/sec.
+    Requests: 87532 susceed, 0 failed.
+
+第 46 次测试:
+    Speed=1071360 pages/min, 1999894 bytes/sec.
+    Requests: 89280 susceed, 0 failed.
+
+第 47 次测试:
+    Speed=1066704 pages/min, 1991180 bytes/sec.
+    Requests: 88892 susceed, 0 failed.
+
+第 48 次测试:
+    Speed=1057716 pages/min, 1974448 bytes/sec.
+    Requests: 88143 susceed, 0 failed.
+
+第 49 次测试:
+    Speed=1068552 pages/min, 1994630 bytes/sec.
+    Requests: 89046 susceed, 0 failed.
+
+第 50 次测试:
+    Speed=1076448 pages/min, 2009347 bytes/sec.
+    Requests: 89704 susceed, 0 failed.
+
+第 51 次测试:
+    Speed=1059144 pages/min, 1977046 bytes/sec.
+    Requests: 88262 susceed, 0 failed.
+
+第 52 次测试:
+    Speed=1060788 pages/min, 1980115 bytes/sec.
+    Requests: 88399 susceed, 0 failed.
+
+第 53 次测试:
+    Speed=1065000 pages/min, 1988000 bytes/sec.
+    Requests: 88750 susceed, 0 failed.
+
+第 54 次测试:
+    Speed=1068924 pages/min, 1995392 bytes/sec.
+    Requests: 89077 susceed, 0 failed.
+
+第 55 次测试:
+    Speed=1061484 pages/min, 1981459 bytes/sec.
+    Requests: 88457 susceed, 0 failed.
+
+第 56 次测试:
+    Speed=1053024 pages/min, 1965667 bytes/sec.
+    Requests: 87752 susceed, 0 failed.
+
+第 57 次测试:
+    Speed=1071444 pages/min, 2000028 bytes/sec.
+    Requests: 89287 susceed, 0 failed.
+
+第 58 次测试:
+    Speed=1065924 pages/min, 1989747 bytes/sec.
+    Requests: 88827 susceed, 0 failed.
+
+第 59 次测试:
+    Speed=1076820 pages/min, 2009996 bytes/sec.
+    Requests: 89735 susceed, 0 failed.
+
+第 60 次测试:
+    Speed=1057344 pages/min, 1973708 bytes/sec.
+    Requests: 88112 susceed, 0 failed.
+
+第 61 次测试:
+    Speed=1067892 pages/min, 1993398 bytes/sec.
+    Requests: 88991 susceed, 0 failed.
+
+第 62 次测试:
+    Speed=1062432 pages/min, 1983184 bytes/sec.
+    Requests: 88536 susceed, 0 failed.
+
+第 63 次测试:
+    Speed=1067400 pages/min, 1992457 bytes/sec.
+    Requests: 88950 susceed, 0 failed.
+
+第 64 次测试:
+    Speed=1067136 pages/min, 1992009 bytes/sec.
+    Requests: 88928 susceed, 0 failed.
+
+第 65 次测试:
+    Speed=1052928 pages/min, 1965488 bytes/sec.
+    Requests: 87744 susceed, 0 failed.
+
+第 66 次测试:
+    Speed=1054968 pages/min, 1969318 bytes/sec.
+    Requests: 87914 susceed, 0 failed.
+
+第 67 次测试:
+    Speed=1061880 pages/min, 1982153 bytes/sec.
+    Requests: 88490 susceed, 0 failed.
+
+第 68 次测试:
+    Speed=1061148 pages/min, 1980832 bytes/sec.
+    Requests: 88429 susceed, 0 failed.
+
+第 69 次测试:
+    Speed=1054464 pages/min, 1968355 bytes/sec.
+    Requests: 87872 susceed, 0 failed.
+
+第 70 次测试:
+    Speed=1064544 pages/min, 1987193 bytes/sec.
+    Requests: 88712 susceed, 0 failed.
+
+第 71 次测试:
+    Speed=1060164 pages/min, 1978972 bytes/sec.
+    Requests: 88347 susceed, 0 failed.
+
+第 72 次测试:
+    Speed=1057944 pages/min, 1974806 bytes/sec.
+    Requests: 88162 susceed, 0 failed.
+
+第 73 次测试:
+    Speed=1059660 pages/min, 1978054 bytes/sec.
+    Requests: 88305 susceed, 0 failed.
+
+第 74 次测试:
+    Speed=1052508 pages/min, 1964659 bytes/sec.
+    Requests: 87709 susceed, 0 failed.
+
+第 75 次测试:
+    Speed=1054152 pages/min, 1967772 bytes/sec.
+    Requests: 87846 susceed, 0 failed.
+
+第 76 次测试:
+    Speed=1060296 pages/min, 1979264 bytes/sec.
+    Requests: 88358 susceed, 0 failed.
+
+第 77 次测试:
+    Speed=1055604 pages/min, 1970595 bytes/sec.
+    Requests: 87967 susceed, 0 failed.
+
+第 78 次测试:
+    Speed=1061928 pages/min, 1982288 bytes/sec.
+    Requests: 88494 susceed, 0 failed.
+
+第 79 次测试:
+    Speed=1065852 pages/min, 1989612 bytes/sec.
+    Requests: 88821 susceed, 0 failed.
+
+第 80 次测试:
+    Speed=1053924 pages/min, 1967324 bytes/sec.
+    Requests: 87827 susceed, 0 failed.
+
+第 81 次测试:
+    Speed=1067928 pages/min, 1993488 bytes/sec.
+    Requests: 88994 susceed, 0 failed.
+
+第 82 次测试:
+    Speed=1061472 pages/min, 1981414 bytes/sec.
+    Requests: 88456 susceed, 0 failed.
+
+第 83 次测试:
+    Speed=1060464 pages/min, 1979532 bytes/sec.
+    Requests: 88372 susceed, 0 failed.
+
+第 84 次测试:
+    Speed=1064868 pages/min, 1987776 bytes/sec.
+    Requests: 88739 susceed, 0 failed.
+
+第 85 次测试:
+    Speed=1063116 pages/min, 1984483 bytes/sec.
+    Requests: 88593 susceed, 0 failed.
+
+第 86 次测试:
+    Speed=1056000 pages/min, 1971200 bytes/sec.
+    Requests: 88000 susceed, 0 failed.
+
+第 87 次测试:
+    Speed=1068384 pages/min, 1994361 bytes/sec.
+    Requests: 89032 susceed, 0 failed.
+
+第 88 次测试:
+    Speed=1060008 pages/min, 1978704 bytes/sec.
+    Requests: 88334 susceed, 0 failed.
+
+第 89 次测试:
+    Speed=1054524 pages/min, 1968400 bytes/sec.
+    Requests: 87877 susceed, 0 failed.
+
+第 90 次测试:
+    Speed=1053156 pages/min, 1965891 bytes/sec.
+    Requests: 87763 susceed, 0 failed.
+
+第 91 次测试:
+    Speed=1063524 pages/min, 1985289 bytes/sec.
+    Requests: 88627 susceed, 0 failed.
+
+第 92 次测试:
+    Speed=1052988 pages/min, 1965577 bytes/sec.
+    Requests: 87749 susceed, 0 failed.
+
+第 93 次测试:
+    Speed=1054392 pages/min, 1968243 bytes/sec.
+    Requests: 87866 susceed, 0 failed.
+
+第 94 次测试:
+    Speed=1065768 pages/min, 1989456 bytes/sec.
+    Requests: 88814 susceed, 0 failed.
+
+第 95 次测试:
+    Speed=1069764 pages/min, 1996915 bytes/sec.
+    Requests: 89147 susceed, 0 failed.
+
+第 96 次测试:
+    Speed=1049028 pages/min, 1958185 bytes/sec.
+    Requests: 87419 susceed, 0 failed.
+
+第 97 次测试:
+    Speed=1054512 pages/min, 1968377 bytes/sec.
+    Requests: 87876 susceed, 0 failed.
+
+第 98 次测试:
+    Speed=1056060 pages/min, 1971312 bytes/sec.
+    Requests: 88005 susceed, 0 failed.
+
+第 99 次测试:
+    Speed=1056468 pages/min, 1972073 bytes/sec.
+    Requests: 88039 susceed, 0 failed.
+
+第 100 次测试:
+    Speed=1061052 pages/min, 1980630 bytes/sec.
+    Requests: 88421 susceed, 0 failed.
+

@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>测试WebServer基本功能</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background: url('background.png') no-repeat center center fixed;
+            background-size: cover;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 90vh;
+        }
+
+        .container {
+            width: 400px; /* Set a width for the container */
+            margin: 40px; /* Set left and right margins to "auto" */
+            padding: 50px;
+            background-color: rgba(255, 255, 255, 0.8);
+            border-radius: 40px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h2 {
+            text-align: center;
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 20px;
+        }
+
+        form {
+            text-align: center;
+        }
+
+        .form-input {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 15px;
+            box-sizing: border-box;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+
+        .form-button {
+            background-color: #4caf50;
+            color: #fff;
+            padding: 10px 15px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+
+        .form-button:hover {
+            background-color: #45a049;
+        }
+
+        .error-message {
+            text-align: center;
+            color: red;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h2>注册</h2>
+        <form action="3" method="post">
+            <input type="text" name="user" class="form-input" placeholder="用户名" required="required">
+            <br>
+            <input type="password" name="password" class="form-input" placeholder="用户密码" required="required">
+            <br>
+            <button type="submit" class="form-button">注册</button>
+        </form>
+        <div class="error-message">提示：该用户名已被注册</div>
+    </div>
+</body>
+
+</html>
